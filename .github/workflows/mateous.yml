@@ -3,7 +3,7 @@ name: CI/CD Pipeline - Flask Hola Mundo
 on:
   push:
     branches:
-      - main
+      - mathiuscp
   pull_request:
 
 jobs:
